@@ -27,7 +27,6 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```sh
    git clone https://github.com/yourusername/quote-generator-app.git
 
- ###Website link 
- https://incredible-semolina-0fbee7.netlify.app
 
-### WebApp link : https://RahulNxtapp.ccbp.tech
+
+### you can checkout website live link here : https://RahulNxtapp.ccbp.tech
