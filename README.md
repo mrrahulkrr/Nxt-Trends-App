@@ -25,7 +25,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/yourusername/quote-generator-app.git
+   git clone [https://github.com/yourusername/quote-generator-app.git](https://github.com/mrrahulkrr/Nxt-Trends-App.git)
 
 
 
